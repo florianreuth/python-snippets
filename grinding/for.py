@@ -13,3 +13,7 @@ print ("Before Edit ", b)
 for bEntry in enumerate(b):
     b[bEntry[0]] = bEntry * 2
 print ("After Edit ", b)
+
+#Repeat Command with specific Count
+for count in range (100):
+    print (count+1)
