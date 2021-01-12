@@ -38,3 +38,13 @@ for count in range (10, 99):
         break
 else:
     print ("Break not exec")
+
+print ("Next Step")    
+#Continue in For
+objectList = [12, 18, 3, 6, 0, 46, 234, 23]
+value = eval(input("Please enter A Number: "))
+for objectListEntry in objectList:
+    if objectListEntry == 0:
+        print ("This is not possible")
+        continue
+    print (value / objectListEntry)    
