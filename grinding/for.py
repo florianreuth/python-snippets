@@ -17,7 +17,15 @@ print ("After Edit ", b)
 #Repeat Command with specific Count
 for count in range (100):
     print (count + 1)
-    
+
+print ("Next Step")        
 #Print Count with Min and Max
 for count in range (5, 10):
     print (count + 1)
+    
+print ("Next Step")    
+#Break in For
+for count in range (10, 99):
+    print (count + 1)
+    if count == 10:
+        break
