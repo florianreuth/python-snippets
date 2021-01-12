@@ -13,3 +13,17 @@ count = 0
 while (count < 10):
     count += 1
     print ("Value: ", count)
+#
+#
+#
+citys = ["Berlin", "Hamburg", "Kiel", "Hannover", "München", "Stuttgart", "Bremen", "Osnabrück", "Wolfsburg", "Kassel"]
+#For
+for cityEntry in citys:
+    print ("Current City: ", cityEntry)
+#
+print ("Next Step")
+#While 
+loop = 0
+while (loop < 10):
+    print ("Current City: ", citys[loop])
+    loop += 1
