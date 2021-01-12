@@ -6,3 +6,9 @@
 #string itself with '.
 print("Welcome to the Python-Examples")
 print('This is a nice "Repository"')
+
+print ("Next Step")
+
+a = 10
+#Options: %s, %d, %f
+print ("Var %s"%(a))
