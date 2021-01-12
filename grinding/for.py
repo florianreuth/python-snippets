@@ -29,3 +29,12 @@ for count in range (10, 99):
     print (count + 1)
     if count == 10:
         break
+        
+print ("Next Step")    
+#You can Add else: if break not exec        
+for count in range (10, 99):
+    print (count + 1)
+    if count == 10:
+        break
+else:
+    print ("Break not exec")
