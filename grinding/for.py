@@ -16,4 +16,8 @@ print ("After Edit ", b)
 
 #Repeat Command with specific Count
 for count in range (100):
-    print (count+1)
+    print (count + 1)
+    
+#Print Count with Min and Max
+for count in range (5, 10):
+    print (count + 1)
