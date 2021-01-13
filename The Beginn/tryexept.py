@@ -2,6 +2,8 @@
 #since 13.01.2020
 #
 #Try Catch Examples
+import sys
+
 try:
     print ("Test")
 except ValueError: #Set Error
@@ -12,3 +14,14 @@ try:
     print ("ASD")
 except (ValueError, EnvironmentError):
     print("ASD123")       
+
+print ("Next Step")    
+
+try:
+    print ("Test")
+except ValueError: #Set Error
+    print ("Rofl")    
+except: #Default in SwitchCase (Java)
+    print ("Error: ", sys.exec_info()[0])
+else: #Success
+    print ("Success!")    
