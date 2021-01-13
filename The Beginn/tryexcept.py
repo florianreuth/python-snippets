@@ -25,3 +25,5 @@ except: #Default in SwitchCase (Java)
     print ("Error: ", sys.exec_info()[0])
 else: #Success
     print ("Success!")    
+finally:
+    print ("Pip.Gc") #Like Java
