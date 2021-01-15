@@ -17,4 +17,5 @@ f = open('test.txt', 'w')
 #Write Content in File
 f.write("This is a Test") 
 
-#
+#Create new Line for Sorting
+f.write("This is a Test" + "\n")

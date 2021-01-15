@@ -8,3 +8,4 @@ Table of Contents:
 - Random Shit Stuff
 - Tasks for testing 
 - Full Operatings
+- Full File Stuff
