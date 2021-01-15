@@ -1,5 +1,7 @@
 from tkinter import *
 
+#Side Options (bottom, left, top, right)
+
 class StartButton(Button):
 
     def action(self):
