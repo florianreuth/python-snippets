@@ -1,4 +1,3 @@
-#Programmed by Florian Michael
 #since 28.12.2020
 #
 #Examples for str methodes

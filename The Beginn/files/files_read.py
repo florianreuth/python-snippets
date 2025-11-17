@@ -1,4 +1,3 @@
-#Programmed by Florian Michael
 #since 15.01.2020
 #
 #Files in Python

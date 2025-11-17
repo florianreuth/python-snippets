@@ -1,4 +1,3 @@
-#Programmed by Florian Michael
 #since 28.12.2020
 #
 #In Python you can use either " or ' in the print method to indicate a

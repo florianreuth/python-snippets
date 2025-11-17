@@ -1,4 +1,3 @@
-#Programmed by Florian Michael
 #since 13.01.2020
 #
 #Try Catch Examples
